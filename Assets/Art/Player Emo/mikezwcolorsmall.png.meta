@@ -1,0 +1,1502 @@
+fileFormatVersion: 2
+guid: 3a590b6b4f8a64f46904535991c354ff
+timeCreated: 1472094542
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mikezwcolorsmall_0
+    21300002: mikezwcolorsmall_1
+    21300004: mikezwcolorsmall_2
+    21300006: mikezwcolorsmall_3
+    21300008: mikezwcolorsmall_4
+    21300010: mikezwcolorsmall_5
+    21300012: mikezwcolorsmall_6
+    21300014: mikezwcolorsmall_7
+    21300016: mikezwcolorsmall_8
+    21300018: mikezwcolorsmall_9
+    21300020: mikezwcolorsmall_10
+    21300022: mikezwcolorsmall_11
+    21300024: mikezwcolorsmall_12
+    21300026: mikezwcolorsmall_13
+    21300028: mikezwcolorsmall_14
+    21300030: mikezwcolorsmall_15
+    21300032: mikezwcolorsmall_16
+    21300034: mikezwcolorsmall_17
+    21300036: mikezwcolorsmall_18
+    21300038: mikezwcolorsmall_19
+    21300040: mikezwcolorsmall_20
+    21300042: mikezwcolorsmall_21
+    21300044: mikezwcolorsmall_22
+    21300046: mikezwcolorsmall_23
+    21300048: mikezwcolorsmall_24
+    21300050: mikezwcolorsmall_25
+    21300052: mikezwcolorsmall_26
+    21300054: mikezwcolorsmall_27
+    21300056: mikezwcolorsmall_28
+    21300058: mikezwcolorsmall_29
+    21300060: mikezwcolorsmall_30
+    21300062: mikezwcolorsmall_31
+    21300064: mikezwcolorsmall_32
+    21300066: mikezwcolorsmall_33
+    21300068: mikezwcolorsmall_34
+    21300070: mikezwcolorsmall_35
+    21300072: mikezwcolorsmall_36
+    21300074: mikezwcolorsmall_37
+    21300076: mikezwcolorsmall_38
+    21300078: mikezwcolorsmall_39
+    21300080: mikezwcolorsmall_40
+    21300082: mikezwcolorsmall_41
+    21300084: mikezwcolorsmall_42
+    21300086: mikezwcolorsmall_43
+    21300088: mikezwcolorsmall_44
+    21300090: mikezwcolorsmall_45
+    21300092: mikezwcolorsmall_46
+    21300094: mikezwcolorsmall_47
+    21300096: mikezwcolorsmall_48
+    21300098: mikezwcolorsmall_49
+    21300100: mikezwcolorsmall_50
+    21300102: mikezwcolorsmall_51
+    21300104: mikezwcolorsmall_52
+    21300106: mikezwcolorsmall_53
+    21300108: mikezwcolorsmall_54
+    21300110: mikezwcolorsmall_55
+    21300112: mikezwcolorsmall_56
+    21300114: mikezwcolorsmall_57
+    21300116: mikezwcolorsmall_58
+    21300118: mikezwcolorsmall_59
+    21300120: mikezwcolorsmall_60
+    21300122: mikezwcolorsmall_61
+    21300124: mikezwcolorsmall_62
+    21300126: mikezwcolorsmall_63
+    21300128: mikezwcolorsmall_64
+    21300130: mikezwcolorsmall_65
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mikezwcolorsmall_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 761
+        width: 1168
+        height: 1204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 430, y: -579}
+        - {x: 414, y: -573}
+        - {x: 383, y: -562}
+        - {x: 352, y: -553}
+        - {x: 343, y: -548}
+        - {x: 335, y: -548}
+        - {x: 317, y: -541}
+        - {x: 288, y: -528}
+        - {x: 285, y: -528}
+        - {x: 262, y: -515}
+        - {x: 230, y: -495}
+        - {x: 222, y: -485}
+        - {x: 218, y: -475}
+        - {x: 212, y: -454}
+        - {x: 210, y: -442}
+        - {x: 183, y: -399}
+        - {x: 175, y: -386}
+        - {x: 163, y: -375}
+        - {x: 149, y: -370}
+        - {x: 140, y: -373}
+        - {x: 142, y: -362}
+        - {x: 149, y: -352}
+        - {x: 149, y: -347}
+        - {x: 168, y: -310}
+        - {x: 168, y: -334}
+        - {x: 174, y: -336}
+        - {x: 178, y: -330}
+        - {x: 180, y: -308}
+        - {x: 186, y: -288}
+        - {x: 192, y: -274}
+        - {x: 199, y: -293}
+        - {x: 204, y: -300}
+        - {x: 216, y: -306}
+        - {x: 221, y: -300}
+        - {x: 221, y: -298}
+        - {x: 213, y: -288}
+        - {x: 209, y: -278}
+        - {x: 208, y: -268}
+        - {x: 211, y: -227}
+        - {x: 211, y: -212}
+        - {x: 216, y: -211}
+        - {x: 231, y: -191}
+        - {x: 240, y: -169}
+        - {x: 259, y: -110}
+        - {x: 264, y: -96}
+        - {x: 265, y: -89}
+        - {x: 271, y: -92}
+        - {x: 284, y: -92}
+        - {x: 305, y: -70}
+        - {x: 321, y: -59}
+        - {x: 347, y: -32}
+        - {x: 361, y: -42}
+        - {x: 375, y: -59}
+        - {x: 379, y: -71}
+        - {x: 393, y: -74}
+        - {x: 395, y: -67}
+        - {x: 383, y: -56}
+        - {x: 391, y: -48}
+        - {x: 399, y: -44}
+        - {x: 398, y: -40}
+        - {x: 386, y: -24}
+        - {x: 380, y: -13}
+        - {x: 377, y: 18}
+        - {x: 376, y: 25}
+        - {x: 385, y: 16}
+        - {x: 406, y: -21}
+        - {x: 410, y: -25}
+        - {x: 412, y: -25}
+        - {x: 414, y: -23}
+        - {x: 414, y: -11}
+        - {x: 412, y: 12}
+        - {x: 404, y: 36}
+        - {x: 425, y: 37}
+        - {x: 443, y: 39}
+        - {x: 448, y: 41}
+        - {x: 448, y: 43}
+        - {x: 445, y: 47}
+        - {x: 425, y: 59}
+        - {x: 406, y: 74}
+        - {x: 405, y: 86}
+        - {x: 416, y: 84}
+        - {x: 431, y: 84}
+        - {x: 447, y: 87}
+        - {x: 468, y: 99}
+        - {x: 474, y: 105}
+        - {x: 474, y: 107}
+        - {x: 472, y: 109}
+        - {x: 443, y: 109}
+        - {x: 434, y: 111}
+        - {x: 423, y: 116}
+        - {x: 407, y: 119}
+        - {x: 407, y: 138}
+        - {x: 405, y: 172}
+        - {x: 400, y: 214}
+        - {x: 393, y: 262}
+        - {x: 394, y: 264}
+        - {x: 386, y: 312}
+        - {x: 377, y: 343}
+        - {x: 365, y: 377}
+        - {x: 358, y: 393}
+        - {x: 343, y: 417}
+        - {x: 331, y: 441}
+        - {x: 319, y: 458}
+        - {x: 286, y: 500}
+        - {x: 266, y: 526}
+        - {x: 254, y: 540}
+        - {x: 228, y: 551}
+        - {x: 204, y: 561}
+        - {x: 151, y: 583}
+        - {x: 139, y: 587}
+        - {x: 44, y: 602}
+        - {x: 9, y: 602}
+        - {x: -22, y: 599}
+        - {x: -67, y: 594}
+        - {x: -89, y: 588}
+        - {x: -134, y: 576}
+        - {x: -150, y: 573}
+        - {x: -157, y: 571}
+        - {x: -174, y: 565}
+        - {x: -199, y: 554}
+        - {x: -216, y: 544}
+        - {x: -234, y: 532}
+        - {x: -257, y: 512}
+        - {x: -277, y: 494}
+        - {x: -283, y: 487}
+        - {x: -303, y: 462}
+        - {x: -332, y: 422}
+        - {x: -363, y: 354}
+        - {x: -375, y: 328}
+        - {x: -396, y: 260}
+        - {x: -405, y: 219}
+        - {x: -412, y: 193}
+        - {x: -413, y: 173}
+        - {x: -423, y: 125}
+        - {x: -437, y: 80}
+        - {x: -445, y: 64}
+        - {x: -459, y: 49}
+        - {x: -460, y: 46}
+        - {x: -453, y: 44}
+        - {x: -445, y: 52}
+        - {x: -440, y: 51}
+        - {x: -438, y: 57}
+        - {x: -424, y: 73}
+        - {x: -415, y: 89}
+        - {x: -413, y: 93}
+        - {x: -413, y: 66}
+        - {x: -425, y: 43}
+        - {x: -447, y: 10}
+        - {x: -463, y: -5}
+        - {x: -462, y: -8}
+        - {x: -453, y: -12}
+        - {x: -423, y: -9}
+        - {x: -404, y: -13}
+        - {x: -413, y: -30}
+        - {x: -416, y: -35}
+        - {x: -422, y: -48}
+        - {x: -420, y: -51}
+        - {x: -416, y: -53}
+        - {x: -399, y: -43}
+        - {x: -403, y: -54}
+        - {x: -394, y: -60}
+        - {x: -389, y: -59}
+        - {x: -358, y: -45}
+        - {x: -351, y: -40}
+        - {x: -343, y: -43}
+        - {x: -344, y: -52}
+        - {x: -341, y: -66}
+        - {x: -331, y: -89}
+        - {x: -317, y: -101}
+        - {x: -286, y: -124}
+        - {x: -261, y: -141}
+        - {x: -246, y: -149}
+        - {x: -237, y: -144}
+        - {x: -228, y: -163}
+        - {x: -222, y: -177}
+        - {x: -213, y: -194}
+        - {x: -204, y: -206}
+        - {x: -184, y: -227}
+        - {x: -176, y: -245}
+        - {x: -173, y: -263}
+        - {x: -172, y: -293}
+        - {x: -175, y: -312}
+        - {x: -187, y: -314}
+        - {x: -180, y: -324}
+        - {x: -172, y: -323}
+        - {x: -162, y: -312}
+        - {x: -160, y: -307}
+        - {x: -147, y: -318}
+        - {x: -135, y: -331}
+        - {x: -133, y: -336}
+        - {x: -125, y: -333}
+        - {x: -120, y: -338}
+        - {x: -116, y: -339}
+        - {x: -113, y: -336}
+        - {x: -113, y: -333}
+        - {x: -99, y: -350}
+        - {x: -82, y: -365}
+        - {x: -86, y: -368}
+        - {x: -102, y: -379}
+        - {x: -124, y: -401}
+        - {x: -147, y: -436}
+        - {x: -155, y: -450}
+        - {x: -166, y: -471}
+        - {x: -174, y: -491}
+        - {x: -190, y: -496}
+        - {x: -205, y: -504}
+        - {x: -218, y: -513}
+        - {x: -236, y: -522}
+        - {x: -254, y: -527}
+        - {x: -275, y: -537}
+        - {x: -286, y: -538}
+        - {x: -308, y: -547}
+        - {x: -319, y: -549}
+        - {x: -341, y: -557}
+        - {x: -370, y: -569}
+        - {x: -402, y: -583}
+        - {x: -431, y: -596}
+        - {x: -439, y: -600}
+        - {x: -439, y: -602}
+        - {x: 477, y: -602}
+        - {x: 476, y: -599}
+        - {x: 467, y: -594}
+        - {x: 446, y: -586}
+      - - {x: 519, y: -602}
+        - {x: 518, y: -599}
+        - {x: 514, y: -599}
+        - {x: 513, y: -602}
+      - - {x: -536, y: -510}
+        - {x: -538, y: -512}
+        - {x: -538, y: -514}
+        - {x: -536, y: -516}
+        - {x: -534, y: -516}
+        - {x: -532, y: -514}
+        - {x: -532, y: -512}
+        - {x: -534, y: -510}
+      - - {x: 326, y: -499}
+        - {x: 329, y: -498}
+        - {x: 329, y: -495}
+        - {x: 326, y: -494}
+        - {x: 324, y: -496}
+      - - {x: 355, y: -493}
+        - {x: 357, y: -495}
+        - {x: 360, y: -494}
+        - {x: 360, y: -491}
+        - {x: 358, y: -489}
+        - {x: 355, y: -490}
+      - - {x: 364, y: -487}
+        - {x: 366, y: -489}
+        - {x: 369, y: -488}
+        - {x: 369, y: -485}
+        - {x: 367, y: -483}
+        - {x: 364, y: -484}
+      - - {x: -496, y: -474}
+        - {x: -498, y: -476}
+        - {x: -498, y: -478}
+        - {x: -496, y: -480}
+        - {x: -494, y: -480}
+        - {x: -492, y: -478}
+        - {x: -492, y: -476}
+        - {x: -494, y: -474}
+      - - {x: -581, y: -471}
+        - {x: -581, y: -475}
+        - {x: -579, y: -477}
+        - {x: -577, y: -477}
+        - {x: -575, y: -475}
+        - {x: -575, y: -473}
+        - {x: -578, y: -470}
+      - - {x: -526, y: -472}
+        - {x: -523, y: -471}
+        - {x: -523, y: -468}
+        - {x: -526, y: -467}
+        - {x: -528, y: -469}
+      - - {x: -520, y: -452}
+        - {x: -525, y: -452}
+        - {x: -525, y: -459}
+        - {x: -524, y: -461}
+        - {x: -521, y: -461}
+        - {x: -519, y: -459}
+        - {x: -519, y: -453}
+      - - {x: -345, y: -446}
+        - {x: -348, y: -449}
+        - {x: -348, y: -450}
+        - {x: -346, y: -452}
+        - {x: -343, y: -452}
+        - {x: -341, y: -450}
+        - {x: -341, y: -449}
+        - {x: -344, y: -446}
+      - - {x: -390, y: -445}
+        - {x: -389, y: -448}
+        - {x: -386, y: -448}
+        - {x: -384, y: -446}
+        - {x: -385, y: -443}
+        - {x: -388, y: -443}
+      - - {x: -259, y: -440}
+        - {x: -258, y: -443}
+        - {x: -255, y: -443}
+        - {x: -253, y: -441}
+        - {x: -254, y: -438}
+        - {x: -257, y: -438}
+      - - {x: -506, y: -424}
+        - {x: -505, y: -427}
+        - {x: -502, y: -427}
+        - {x: -500, y: -425}
+        - {x: -501, y: -422}
+        - {x: -504, y: -422}
+      - - {x: -483, y: -415}
+        - {x: -483, y: -417}
+        - {x: -481, y: -419}
+        - {x: -480, y: -419}
+        - {x: -477, y: -416}
+        - {x: -478, y: -413}
+        - {x: -481, y: -413}
+      - - {x: -367, y: -412}
+        - {x: -367, y: -414}
+        - {x: -365, y: -416}
+        - {x: -364, y: -416}
+        - {x: -361, y: -413}
+        - {x: -362, y: -410}
+        - {x: -365, y: -410}
+      - - {x: -532, y: -404}
+        - {x: -532, y: -410}
+        - {x: -528, y: -410}
+        - {x: -526, y: -409}
+        - {x: -526, y: -404}
+      - - {x: -559, y: -404}
+        - {x: -557, y: -406}
+        - {x: -554, y: -405}
+        - {x: -554, y: -402}
+        - {x: -556, y: -400}
+        - {x: -559, y: -401}
+      - - {x: 462, y: -404}
+        - {x: 464, y: -406}
+        - {x: 467, y: -405}
+        - {x: 467, y: -402}
+        - {x: 465, y: -400}
+        - {x: 462, y: -401}
+      - - {x: -464, y: -393}
+        - {x: -469, y: -393}
+        - {x: -469, y: -398}
+        - {x: -467, y: -399}
+        - {x: -464, y: -399}
+        - {x: -463, y: -397}
+        - {x: -463, y: -394}
+      - - {x: -442, y: -394}
+        - {x: -438, y: -394}
+        - {x: -436, y: -393}
+        - {x: -436, y: -390}
+        - {x: -439, y: -386}
+        - {x: -444, y: -386}
+        - {x: -446, y: -387}
+        - {x: -446, y: -391}
+      - - {x: -444, y: -373}
+        - {x: -444, y: -371}
+        - {x: -446, y: -369}
+        - {x: -448, y: -369}
+        - {x: -450, y: -371}
+        - {x: -453, y: -376}
+        - {x: -453, y: -377}
+        - {x: -449, y: -381}
+        - {x: -444, y: -381}
+        - {x: -442, y: -380}
+        - {x: -442, y: -377}
+        - {x: -444, y: -375}
+        - {x: -447, y: -375}
+      - - {x: -473, y: -366}
+        - {x: -473, y: -368}
+        - {x: -471, y: -370}
+        - {x: -470, y: -370}
+        - {x: -467, y: -367}
+        - {x: -468, y: -364}
+        - {x: -471, y: -364}
+      - - {x: -459, y: -359}
+        - {x: -461, y: -360}
+        - {x: -461, y: -363}
+        - {x: -459, y: -366}
+        - {x: -456, y: -366}
+        - {x: -454, y: -364}
+        - {x: -454, y: -362}
+        - {x: -455, y: -359}
+      - - {x: -488, y: -350}
+        - {x: -489, y: -353}
+        - {x: -489, y: -357}
+        - {x: -488, y: -359}
+        - {x: -485, y: -359}
+        - {x: -483, y: -358}
+        - {x: -483, y: -353}
+        - {x: -484, y: -350}
+      - - {x: -132, y: -350}
+        - {x: -134, y: -353}
+        - {x: -134, y: -355}
+        - {x: -132, y: -356}
+        - {x: -129, y: -356}
+        - {x: -128, y: -354}
+        - {x: -128, y: -351}
+        - {x: -130, y: -350}
+      - - {x: 293, y: -356}
+        - {x: 296, y: -355}
+        - {x: 296, y: -352}
+        - {x: 293, y: -351}
+        - {x: 291, y: -353}
+      - - {x: 331, y: -351}
+        - {x: 332, y: -354}
+        - {x: 335, y: -354}
+        - {x: 337, y: -352}
+        - {x: 336, y: -349}
+        - {x: 333, y: -349}
+      - - {x: -410, y: -347}
+        - {x: -409, y: -350}
+        - {x: -406, y: -350}
+        - {x: -404, y: -348}
+        - {x: -405, y: -345}
+        - {x: -408, y: -345}
+      - - {x: 510, y: -345}
+        - {x: 513, y: -344}
+        - {x: 513, y: -341}
+        - {x: 510, y: -340}
+        - {x: 508, y: -342}
+      - - {x: -397, y: -341}
+        - {x: -394, y: -340}
+        - {x: -394, y: -337}
+        - {x: -397, y: -336}
+        - {x: -399, y: -338}
+      - - {x: -513, y: -325}
+        - {x: -515, y: -327}
+        - {x: -512, y: -334}
+        - {x: -508, y: -334}
+        - {x: -507, y: -332}
+        - {x: -507, y: -328}
+        - {x: -511, y: -325}
+      - - {x: -455, y: -327}
+        - {x: -454, y: -330}
+        - {x: -451, y: -330}
+        - {x: -449, y: -328}
+        - {x: -450, y: -325}
+        - {x: -453, y: -325}
+      - - {x: -530, y: -325}
+        - {x: -529, y: -328}
+        - {x: -526, y: -328}
+        - {x: -524, y: -326}
+        - {x: -525, y: -323}
+        - {x: -528, y: -323}
+      - - {x: -523, y: -323}
+        - {x: -523, y: -324}
+        - {x: -520, y: -327}
+        - {x: -517, y: -326}
+        - {x: -517, y: -323}
+        - {x: -519, y: -321}
+        - {x: -521, y: -321}
+      - - {x: 166, y: -327}
+        - {x: 169, y: -326}
+        - {x: 169, y: -323}
+        - {x: 166, y: -322}
+        - {x: 164, y: -324}
+      - - {x: -445, y: -324}
+        - {x: -439, y: -324}
+        - {x: -439, y: -319}
+        - {x: -440, y: -318}
+        - {x: -445, y: -318}
+      - - {x: 235, y: -306}
+        - {x: 238, y: -305}
+        - {x: 238, y: -302}
+        - {x: 235, y: -301}
+        - {x: 233, y: -303}
+      - - {x: -559, y: -303}
+        - {x: -556, y: -302}
+        - {x: -556, y: -299}
+        - {x: -559, y: -298}
+        - {x: -561, y: -300}
+      - - {x: -510, y: -300}
+        - {x: -509, y: -303}
+        - {x: -506, y: -303}
+        - {x: -504, y: -301}
+        - {x: -505, y: -298}
+        - {x: -508, y: -298}
+      - - {x: -543, y: -298}
+        - {x: -543, y: -299}
+        - {x: -540, y: -302}
+        - {x: -537, y: -301}
+        - {x: -537, y: -298}
+        - {x: -539, y: -296}
+        - {x: -541, y: -296}
+      - - {x: -556, y: -300}
+        - {x: -553, y: -300}
+        - {x: -549, y: -297}
+        - {x: -549, y: -292}
+        - {x: -550, y: -290}
+        - {x: -552, y: -290}
+        - {x: -556, y: -293}
+      - - {x: -548, y: -292}
+        - {x: -545, y: -291}
+        - {x: -545, y: -288}
+        - {x: -548, y: -287}
+        - {x: -550, y: -289}
+      - - {x: -438, y: -281}
+        - {x: -432, y: -281}
+        - {x: -432, y: -276}
+        - {x: -433, y: -275}
+        - {x: -438, y: -275}
+      - - {x: 411, y: -275}
+        - {x: 413, y: -277}
+        - {x: 416, y: -276}
+        - {x: 416, y: -273}
+        - {x: 414, y: -271}
+        - {x: 411, y: -272}
+      - - {x: 379, y: -276}
+        - {x: 382, y: -275}
+        - {x: 382, y: -272}
+        - {x: 379, y: -271}
+        - {x: 377, y: -273}
+      - - {x: -248, y: -240}
+        - {x: -246, y: -242}
+        - {x: -243, y: -241}
+        - {x: -243, y: -238}
+        - {x: -245, y: -236}
+        - {x: -248, y: -237}
+      - - {x: -385, y: -231}
+        - {x: -388, y: -231}
+        - {x: -391, y: -235}
+        - {x: -390, y: -238}
+        - {x: -387, y: -238}
+        - {x: -383, y: -235}
+        - {x: -383, y: -232}
+      - - {x: -265, y: -225}
+        - {x: -263, y: -227}
+        - {x: -260, y: -226}
+        - {x: -260, y: -222}
+        - {x: -262, y: -220}
+        - {x: -265, y: -221}
+      - - {x: -237, y: -207}
+        - {x: -235, y: -209}
+        - {x: -232, y: -208}
+        - {x: -232, y: -204}
+        - {x: -234, y: -202}
+        - {x: -237, y: -203}
+      - - {x: -241, y: -197}
+        - {x: -239, y: -199}
+        - {x: -236, y: -198}
+        - {x: -236, y: -195}
+        - {x: -238, y: -193}
+        - {x: -241, y: -194}
+      - - {x: 309, y: -152}
+        - {x: 308, y: -153}
+        - {x: 308, y: -157}
+        - {x: 312, y: -161}
+        - {x: 316, y: -161}
+        - {x: 318, y: -159}
+        - {x: 317, y: -156}
+        - {x: 313, y: -152}
+      - - {x: 302, y: -143}
+        - {x: 298, y: -146}
+        - {x: 298, y: -150}
+        - {x: 304, y: -153}
+        - {x: 308, y: -153}
+        - {x: 308, y: -147}
+        - {x: 305, y: -143}
+      - - {x: -508, y: -143}
+        - {x: -506, y: -145}
+        - {x: -503, y: -144}
+        - {x: -503, y: -141}
+        - {x: -505, y: -139}
+        - {x: -508, y: -140}
+      - - {x: 460, y: -143}
+        - {x: 462, y: -145}
+        - {x: 465, y: -144}
+        - {x: 465, y: -141}
+        - {x: 463, y: -139}
+        - {x: 460, y: -140}
+      - - {x: 406, y: -115}
+        - {x: 406, y: -119}
+        - {x: 408, y: -121}
+        - {x: 410, y: -121}
+        - {x: 412, y: -119}
+        - {x: 412, y: -117}
+        - {x: 409, y: -114}
+      - - {x: 444, y: -100}
+        - {x: 442, y: -102}
+        - {x: 442, y: -103}
+        - {x: 445, y: -106}
+        - {x: 447, y: -106}
+        - {x: 449, y: -104}
+        - {x: 449, y: -102}
+        - {x: 447, y: -100}
+      - - {x: -552, y: -24}
+        - {x: -552, y: -26}
+        - {x: -549, y: -29}
+        - {x: -546, y: -28}
+        - {x: -546, y: -24}
+        - {x: -548, y: -22}
+        - {x: -550, y: -22}
+      - - {x: 425, y: 25}
+        - {x: 427, y: 23}
+        - {x: 430, y: 24}
+        - {x: 430, y: 27}
+        - {x: 428, y: 29}
+        - {x: 425, y: 28}
+      - - {x: -552, y: 31}
+        - {x: -552, y: 27}
+        - {x: -550, y: 25}
+        - {x: -548, y: 25}
+        - {x: -546, y: 27}
+        - {x: -546, y: 29}
+        - {x: -549, y: 32}
+      - - {x: -574, y: 43}
+        - {x: -575, y: 42}
+        - {x: -575, y: 37}
+        - {x: -568, y: 37}
+        - {x: -568, y: 42}
+        - {x: -570, y: 43}
+      - - {x: 424, y: 77}
+        - {x: 423, y: 74}
+        - {x: 423, y: 70}
+        - {x: 426, y: 68}
+        - {x: 429, y: 68}
+        - {x: 431, y: 70}
+        - {x: 431, y: 75}
+        - {x: 429, y: 77}
+      - - {x: 475, y: 82}
+        - {x: 478, y: 83}
+        - {x: 478, y: 86}
+        - {x: 475, y: 87}
+        - {x: 473, y: 85}
+      - - {x: 513, y: 99}
+        - {x: 516, y: 100}
+        - {x: 516, y: 103}
+        - {x: 513, y: 104}
+        - {x: 511, y: 102}
+      - - {x: 448, y: 160}
+        - {x: 449, y: 157}
+        - {x: 453, y: 157}
+        - {x: 455, y: 159}
+        - {x: 454, y: 162}
+        - {x: 450, y: 162}
+      - - {x: -473, y: 393}
+        - {x: -470, y: 394}
+        - {x: -470, y: 397}
+        - {x: -473, y: 398}
+        - {x: -475, y: 396}
+      - - {x: -474, y: 431}
+        - {x: -473, y: 428}
+        - {x: -470, y: 428}
+        - {x: -468, y: 430}
+        - {x: -469, y: 433}
+        - {x: -472, y: 433}
+    - name: mikezwcolorsmall_1
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1627
+        width: 105
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_2
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1597
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_3
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1583
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_4
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1391
+        width: 4
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_5
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1384
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_6
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1346
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_7
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1321
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_8
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1305
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_9
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1295
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_10
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1289
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_11
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1275
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_12
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1273
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_13
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1220
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_14
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1159
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_15
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1095
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_16
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1079
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_17
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1071
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_18
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1053
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_19
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 981
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_20
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 963
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_21
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 965
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_22
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 819
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_23
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 815
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_24
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 811
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_25
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 803
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_26
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 791
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_27
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 755
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_28
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 749
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 743
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_30
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 695
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_31
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 643
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_32
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 599
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_33
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 588
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 556
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 543
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_36
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 483
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 415
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_38
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 425
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_39
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 409
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_40
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 385
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_41
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 379
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_42
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 361
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_43
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 307
+        width: 8
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_44
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 347
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_45
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 203
+        width: 15
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_46
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 283
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_47
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 259
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_48
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 253
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_49
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 201
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_50
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 180
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_51
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 181
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_52
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 175
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_53
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 169
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_54
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 157
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_55
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_56
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 137
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_57
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_58
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 91
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_59
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 85
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_60
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 73
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_61
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 53
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_62
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 0
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -30.5}
+        - {x: -13, y: -30.5}
+        - {x: -13, y: -28.5}
+        - {x: -15, y: -26.5}
+        - {x: -18, y: -27.5}
+      - - {x: 15, y: 26.5}
+        - {x: 18, y: 27.5}
+        - {x: 18, y: 30.5}
+        - {x: 14, y: 30.5}
+        - {x: 13, y: 29.5}
+    - name: mikezwcolorsmall_63
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 32
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_64
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mikezwcolorsmall_65
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

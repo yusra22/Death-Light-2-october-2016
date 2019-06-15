@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 4672a21938775b94bb5a05a28e0f0180
+timeCreated: 1475295839
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: aiemo17-min_0
+    21300002: aiemo17-min_1
+    21300004: aiemo17-min_2
+    21300006: aiemo17-min_3
+    21300008: aiemo17-min_4
+    21300010: aiemo17-min_5
+    21300012: aiemo17-min_6
+    21300014: aiemo17-min_7
+    21300016: aiemo17-min_8
+    21300018: aiemo17-min_9
+    21300020: aiemo17-min_10
+    21300022: aiemo17-min_11
+    21300024: aiemo17-min_12
+    21300026: aiemo17-min_13
+    21300028: aiemo17-min_14
+    21300030: aiemo17-min_15
+    21300032: aiemo17-min_16
+    21300034: aiemo17-min_17
+    21300036: aiemo17-min_18
+    21300038: aiemo17-min_19
+    21300040: aiemo17-min_20
+    21300042: aiemo17-min_21
+    21300044: aiemo17-min_22
+    21300046: aiemo17-min_23
+    21300048: aiemo17-min_24
+    21300050: aiemo17-min_25
+    21300052: aiemo17-min_26
+    21300054: aiemo17-min_27
+    21300056: aiemo17-min_28
+    21300058: aiemo17-min_29
+    21300060: aiemo17-min_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aiemo17-min_0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 806
+        width: 868
+        height: 1156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1958
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_2
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1419
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1305
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1097
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_5
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1080
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_6
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 723
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 717
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 622
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_9
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 422
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 414
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_11
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 392
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 393
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 389
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_14
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 377
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_15
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 362
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_16
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 354
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_17
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 305
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_18
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 274
+        width: 4
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_19
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 275
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_20
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 273
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_21
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 199
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_22
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 236
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_23
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 229
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_24
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 181
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_25
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2
+        width: 15
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_27
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_28
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 115
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_29
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aiemo17-min_30
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

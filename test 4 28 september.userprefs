@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game_Dialogue\Chapter 2\Journal 1 Chapter2.txt">
+    <Files>
+      <File FileName="Assets\Script\Collect_Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Collect_Pickup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\JournalCollect_Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game_Dialogue\Chapter 1\Journal1.txt" Line="1" Column="1" />
+      <File FileName="Assets\Menu_Game\Story 1 n 1,1\dialogue script\dialogueboxmanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game_Dialogue\Chapter 2\Journal 1 Chapter2.txt" Line="1" Column="206" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

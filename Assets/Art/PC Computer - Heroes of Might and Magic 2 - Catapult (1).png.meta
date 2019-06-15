@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 22dd1f93e591c5148a8ad257e786ace1
+timeCreated: 1474973037
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_0
+    21300002: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_1
+    21300004: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_2
+    21300006: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_3
+    21300008: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_4
+    21300010: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_5
+    21300012: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_6
+    21300014: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_7
+    21300016: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_8
+    21300018: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_9
+    21300020: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 315
+        width: 105
+        height: 93
+      alignment: 9
+      pivot: {x: 1.0196667, y: 0.49675792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 315
+        width: 120
+        height: 83
+      alignment: 9
+      pivot: {x: 1.0159539, y: 0.48177844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 315
+        width: 125
+        height: 83
+      alignment: 9
+      pivot: {x: 1.0243381, y: 0.5097061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 124
+        height: 83
+      alignment: 9
+      pivot: {x: 1.0238961, y: 0.5692541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 205
+        width: 105
+        height: 93
+      alignment: 9
+      pivot: {x: 1.046591, y: 0.5249252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 205
+        width: 105
+        height: 106
+      alignment: 9
+      pivot: {x: 1.0485215, y: 0.5180448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 97
+        width: 105
+        height: 106
+      alignment: 9
+      pivot: {x: 1.0305455, y: 0.5781771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 97
+        width: 105
+        height: 103
+      alignment: 9
+      pivot: {x: 1.0323441, y: 0.54525566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 97
+        width: 105
+        height: 98
+      alignment: 9
+      pivot: {x: 1.0216228, y: 0.51127267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5
+        width: 105
+        height: 88
+      alignment: 9
+      pivot: {x: 1.017833, y: 0.50452197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Catapult (1)_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

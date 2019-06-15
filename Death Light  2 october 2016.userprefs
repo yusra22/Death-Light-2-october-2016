@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs">
+    <Files>
+      <File FileName="Assets\Menu_Game\menu_files\pause_menu2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Player_Control.cs" Line="1" Column="1" />
+      <File FileName="Assets\Menu_Game\menu_files\menu_control2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\endtrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Menu_Game\Story 1 n 1,1\dialogue script\dialogueboxmanager1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\playerhealthmanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" Line="109" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

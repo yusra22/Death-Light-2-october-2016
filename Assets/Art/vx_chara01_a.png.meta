@@ -1,0 +1,1403 @@
+fileFormatVersion: 2
+guid: 14f9cd07d05ee3f409758e78a9be59b6
+timeCreated: 1475222669
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: vx_chara01_a_0
+    21300002: vx_chara01_a_1
+    21300004: vx_chara01_a_2
+    21300006: vx_chara01_a_3
+    21300008: vx_chara01_a_4
+    21300010: vx_chara01_a_5
+    21300012: vx_chara01_a_6
+    21300014: vx_chara01_a_7
+    21300016: vx_chara01_a_8
+    21300018: vx_chara01_a_9
+    21300020: vx_chara01_a_10
+    21300022: vx_chara01_a_11
+    21300024: vx_chara01_a_12
+    21300026: vx_chara01_a_13
+    21300028: vx_chara01_a_14
+    21300030: vx_chara01_a_15
+    21300032: vx_chara01_a_16
+    21300034: vx_chara01_a_17
+    21300036: vx_chara01_a_18
+    21300038: vx_chara01_a_19
+    21300040: vx_chara01_a_20
+    21300042: vx_chara01_a_21
+    21300044: vx_chara01_a_22
+    21300046: vx_chara01_a_23
+    21300048: vx_chara01_a_24
+    21300050: vx_chara01_a_25
+    21300052: vx_chara01_a_26
+    21300054: vx_chara01_a_27
+    21300056: vx_chara01_a_28
+    21300058: vx_chara01_a_29
+    21300060: vx_chara01_a_30
+    21300062: vx_chara01_a_31
+    21300064: vx_chara01_a_32
+    21300066: vx_chara01_a_33
+    21300068: vx_chara01_a_34
+    21300070: vx_chara01_a_35
+    21300072: vx_chara01_a_36
+    21300074: vx_chara01_a_37
+    21300076: vx_chara01_a_38
+    21300078: vx_chara01_a_39
+    21300080: vx_chara01_a_40
+    21300082: vx_chara01_a_41
+    21300084: vx_chara01_a_42
+    21300086: vx_chara01_a_43
+    21300088: vx_chara01_a_44
+    21300090: vx_chara01_a_45
+    21300092: vx_chara01_a_46
+    21300094: vx_chara01_a_47
+    21300096: vx_chara01_a_48
+    21300098: vx_chara01_a_49
+    21300100: vx_chara01_a_50
+    21300102: vx_chara01_a_51
+    21300104: vx_chara01_a_52
+    21300106: vx_chara01_a_53
+    21300108: vx_chara01_a_54
+    21300110: vx_chara01_a_55
+    21300112: vx_chara01_a_56
+    21300114: vx_chara01_a_57
+    21300116: vx_chara01_a_58
+    21300118: vx_chara01_a_59
+    21300120: vx_chara01_a_60
+    21300122: vx_chara01_a_61
+    21300124: vx_chara01_a_62
+    21300126: vx_chara01_a_63
+    21300128: vx_chara01_a_64
+    21300130: vx_chara01_a_65
+    21300132: vx_chara01_a_66
+    21300134: vx_chara01_a_67
+    21300136: vx_chara01_a_68
+    21300138: vx_chara01_a_69
+    21300140: vx_chara01_a_70
+    21300142: vx_chara01_a_71
+    21300144: vx_chara01_a_72
+    21300146: vx_chara01_a_73
+    21300148: vx_chara01_a_74
+    21300150: vx_chara01_a_75
+    21300152: vx_chara01_a_76
+    21300154: vx_chara01_a_77
+    21300156: vx_chara01_a_78
+    21300158: vx_chara01_a_79
+    21300160: vx_chara01_a_80
+    21300162: vx_chara01_a_81
+    21300164: vx_chara01_a_82
+    21300166: vx_chara01_a_83
+    21300168: vx_chara01_a_84
+    21300170: vx_chara01_a_85
+    21300172: vx_chara01_a_86
+    21300174: vx_chara01_a_87
+    21300176: vx_chara01_a_88
+    21300178: vx_chara01_a_89
+    21300180: vx_chara01_a_90
+    21300182: vx_chara01_a_91
+    21300184: vx_chara01_a_92
+    21300186: vx_chara01_a_93
+    21300188: vx_chara01_a_94
+    21300190: vx_chara01_a_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vx_chara01_a_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 337
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 337
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 337
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 337
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 337
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 337
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 337
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 337
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 337
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 337
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 337
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 337
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 289
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 289
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 289
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 289
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 289
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 289
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 289
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 289
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 289
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 289
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 289
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 241
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 241
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 241
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 241
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 241
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 241
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 241
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_33
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 241
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 241
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_35
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 241
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 193
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 193
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 193
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 193
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_43
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 193
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 193
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_45
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 193
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_46
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 193
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_47
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 193
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 145
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 145
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 144
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 145
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 144
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 145
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 145
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 145
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_57
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 145
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_58
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 145
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_59
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 145
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 97
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_62
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 97
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 97
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_64
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 97
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_65
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 97
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_67
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 97
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 97
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_69
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 97
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_70
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 97
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_71
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 97
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_73
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 49
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_74
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 49
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 49
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 49
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 49
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_78
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 49
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_79
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 49
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_80
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 49
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_81
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 49
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_82
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 49
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_83
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 49
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_85
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_86
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_87
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_88
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_89
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_90
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_91
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_92
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_93
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_94
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx_chara01_a_95
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

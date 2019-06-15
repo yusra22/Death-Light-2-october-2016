@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Menu_Game\menu_files\endgamescenes.cs">
+    <Files>
+      <File FileName="Assets\Script\EnemyHealthManager2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HurtEnemies.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\teleport1.js" Line="1" Column="1" />
+      <File FileName="Assets\Game_Dialogue\chap5\Boss.txt" Line="1" Column="1" />
+      <File FileName="Assets\Menu_Game\loading_files\loadingbar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Menu_Game\loading_files\loadingbar3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Menu_Game\loading_files\loadingbar4.cs" Line="1" Column="1" />
+      <File FileName="Assets\loading_bar_4.cs" Line="1" Column="1" />
+      <File FileName="Assets\loading_bar6.cs" Line="1" Column="1" />
+      <File FileName="Assets\Menu_Game\splash_files\splashscreendelayed.cs" Line="1" Column="1" />
+      <File FileName="Assets\delaysummary.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\endtrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\endsummary.cs" Line="1" Column="1" />
+      <File FileName="Assets\Menu_Game\menu_files\endgamescenes.cs" Line="11" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
